@@ -24,4 +24,4 @@ This 4-Transistor COMPLEMENTARY PUSH-PULL amplifier is designed around discrete 
 * 1 battery clip
 * 1 piece of veroboard 
 
-![](https://github.com/SteveJustin1963/TE-1-30-MINI-AMPLIFIER/blob/master/mini-amp.png)
+![](https://github.com/SteveJustin1963/TE-1-30-MINI-AMPLIFIER/blob/master/mini-amp-layout.png)
