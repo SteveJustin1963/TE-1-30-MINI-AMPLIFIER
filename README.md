@@ -1,4 +1,4 @@
-# TE-1-30-MINI-AMPLIFIER
+# TE-1-MINI-AMPLIFIER
 
 https://easyeda.com/editor#id=0fa2a850dd6c466e9fe03b1316bb0b1d|155f2e6c9cff4c4f9e6fd49e3e510268
 
